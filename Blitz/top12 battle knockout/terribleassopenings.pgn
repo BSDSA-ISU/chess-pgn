@@ -1,0 +1,25 @@
+[Event "top 12 engine"]
+[Site "?"]
+[Date "2025.11.30"]
+[Round "1"]
+[White "stockfish 1"]
+[Black "stockfish 17"]
+[Result "*"]
+[ECO "C20"]
+[GameDuration "00:01:27"]
+[GameEndTime "2025-11-30T07:38:14.939 PST"]
+[GameStartTime "2025-11-30T07:36:47.218 PST"]
+[Opening "King's pawn"]
+[PlyCount "21"]
+[Termination "unterminated"]
+[TimeControl "180+0.5"]
+[Variation "Napoleon's Opening"]
+
+1. e4 {book} e5 {book} 2. Qf3 {book} Nf6 {+0.35/27 6.5s} 3. Nc3 {-0.52/16 6.1s}
+Nc6 {+0.61/19 2.4s} 4. Bd3 {-0.60/16 5.3s} Nd4 {+0.60/27 8.3s}
+5. Qg3 {-0.08/17 3.1s} Bd6 {+0.58/19 1.6s} 6. Nge2 {-0.32/18 11s}
+O-O {+0.55/22 3.6s} 7. O-O {-0.20/17 3.5s} Re8 {+0.54/22 3.8s}
+8. Qh4 {-0.44/17 4.5s} c6 {+0.38/24 7.7s} 9. Nxd4 {-0.40/16 7.0s}
+exd4 {+0.32/21 2.1s} 10. Ne2 {-0.36/18 3.4s} Bc7 {+0.27/23 4.5s}
+11. Nxd4 {-0.36/18 3.0s, No result} *
+
